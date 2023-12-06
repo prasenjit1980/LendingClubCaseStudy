@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 > The main objective is to identify risky loan applications and reduce credit loss for the consumer finance company.
 
 
